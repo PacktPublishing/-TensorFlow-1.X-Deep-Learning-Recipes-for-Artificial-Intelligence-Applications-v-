@@ -21,9 +21,6 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is intended for Data Analysts, Data Scientists, Data Engineers, Software Engineers, and anyone working with Python and data who wants to perform Machine Learning on a regular basis and use TensorFlow to build Deep Learning models. 
 
 Fluency in Python 3, familiarity with basic Machine Learning concepts, a basic awareness of the most common Machine Learning algorithms, familiarity with Neural Networks and related concepts, and a basic understanding of how TensorFlow works will be advantageous.
-### Technical Requirements
-This course has the following software requirements:<br/>
-...
 
 ## Related Products
 * [Hands-on Artificial Intelligence with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow-video?utm_source=github&utm_medium=repository&utm_campaign=9781789135091)
