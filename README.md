@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/tensorflow-1-x-deep-learning-recipes-for-artificial-intelligence-applications-video/9781788623209)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # TensorFlow 1.x Deep Learning Recipes for Artificial Intelligence Applications [Video]
 This is the code repository for [TensorFlow 1.x Deep Learning Recipes for Artificial Intelligence Applications [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-recipes-artificial-intelligence-appli?utm_source=github&utm_medium=repository&utm_campaign=9781788623209), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
